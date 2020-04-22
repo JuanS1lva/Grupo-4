@@ -1,1 +1,27 @@
 
+.banner{
+
+    background-image: url("https://www.orsoheladeria.com/wp-content/uploads/2015/08/Amarena-resize2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    position: relative;
+    z-index: -1;
+}
+
+.banner h1 {
+
+    background-color: rgba(0, 0, 0, 0.212);
+    padding: 0,9em;
+    padding-left: 0,2em;
+       
+    
+
+    position: absolute;
+    left: 400px;
+    top: 100px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 3em;
+  
+}
