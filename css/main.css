@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .grid-container-galery{
   display: grid;
   grid-template-columns: auto auto auto;
@@ -19,4 +20,32 @@
   margin: 4px 2px;
   cursor: pointer;
   background-color: #fff; color: black;
+=======
+
+.banner{
+
+    background-image: url("https://www.orsoheladeria.com/wp-content/uploads/2015/08/Amarena-resize2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    position: relative;
+    z-index: -1;
+}
+
+.banner h1 {
+
+    background-color: rgba(0, 0, 0, 0.212);
+    padding: 0,9em;
+    padding-left: 0,2em;
+       
+    
+
+    position: absolute;
+    left: 400px;
+    top: 100px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 3em;
+  
+>>>>>>> 8933caba8e6989f0db3c64a08e871ac4bce16bbc
 }

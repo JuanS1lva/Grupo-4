@@ -1,9 +1,17 @@
 body {
-  font-family: 'Baloo Thambi 2', cursive;
+  margin: 0;
+ 
+}
+
+.imagen{
+display: block;
+margin: 0 auto;
+
 }
 .flex{
   display: flex;
   justify-content: space-evenly;
+  font-family: Montserrat, Arial, Helvetica, sans-serif;
   align-items: center;
   margin-right: 30px;
 }
@@ -18,17 +26,18 @@ body {
 }
 a.selected{
   text-decoration: underline;
-  color: cyan;
+  color: rgb(189, 240, 249);
 }
 a:hover{
-  text-decoration-color: cyan;
+  text-decoration-color: rgb(189, 240, 249);;
   text-decoration: underline;
-  color: cyan;
+  color: rgb(189, 240, 249);;
 }
 a{
   padding: 10px;
-  color: black;
+  color: rgb(53, 40, 37);
   text-decoration: none;
+  
 }
 .portada{
   display: flex;
