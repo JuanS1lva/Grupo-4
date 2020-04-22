@@ -29,13 +29,20 @@
     z-index: -1;
 }
 .banner h1 {
-    background-color: rgba(0, 0, 0, 0.212);
+    background-color: rgba(0, 0, 0, 0.473);
     padding: 0,9em;
     padding-left: 0,2em;
     position: absolute;
-    left: 400px;
+    left: 300px;
     top: 100px;
     color: rgb(255, 255, 255);
+    font-family: 'Mystery Quest';
     text-align: center;
-    font-size: 3em;
+    font-size: 3.6em;
+}
+
+
+@font-face {
+  font-family: "Mystery Quest";
+  src: url("../fuentes/Choplin/Choplin-Medium-DEMO.otf");
 }
