@@ -28,26 +28,23 @@
     position: relative;
     z-index: -1;
 }
-.banner>div {
-    width: 100%;
-    padding: 0,9em;
-    padding-left: 0,2em;
-    position: absolute;
-    vertical-align: middle;
-    text-align: center;
-    top: 100px;
-    color: rgb(255, 255, 255);
-    font-family: 'Mystery Quest';
-    text-align: center;
-    font-size: 1.6em;
+.banner h1 {
+  background-color: rgba(0, 0, 0, 0.473);
+  padding: 1em;
+  width: 30%;
+  position: relative;
+  top: 35%;
+  left: 33%;
+  text-align: center;
+  vertical-align: middle;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-family: 'Mystery Quest';
+  text-align: center;
+  font-size: 2em;
 }
-.banner>div>h1{
-    background-color: rgba(0, 0, 0, 0.473);
-    width: 50%;
-}
-.espacio{
-  width: 33%;
-}
+
+
 
 
 @font-face {
