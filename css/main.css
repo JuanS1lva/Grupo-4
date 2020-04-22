@@ -1,1 +1,22 @@
-
+.grid-container-galery{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  text-align: center;
+}
+.galery{
+  text-align: center;
+  justify-items: center;
+  font-size: 30px;
+}
+.button {
+  border: 1px solid black;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: #fff; color: black;
+}
