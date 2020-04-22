@@ -1,12 +1,10 @@
 body {
   margin: 0;
- 
 }
-
 .imagen{
 display: block;
 margin: 0 auto;
-
+max-height:100%;
 }
 .flex{
   display: flex;
@@ -37,7 +35,7 @@ a{
   padding: 10px;
   color: rgb(53, 40, 37);
   text-decoration: none;
-  
+
 }
 .portada{
   display: flex;
