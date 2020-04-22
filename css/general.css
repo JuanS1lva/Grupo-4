@@ -9,10 +9,11 @@ max-height:100%;
 .flex{
   display: flex;
   justify-content: space-evenly;
-  font-family: Montserrat, Arial, Helvetica, sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   align-items: center;
   margin-right: 30px;
 }
+
 .flex ul{
   list-style-type: none;
   text-align: center;
