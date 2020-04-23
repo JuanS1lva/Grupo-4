@@ -1,0 +1,18 @@
+.contacto{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.contacto h2{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: crimson;
+
+}
+
+.contacto p{
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ text-align: center;
+ font-size: 14px;
+
+}
