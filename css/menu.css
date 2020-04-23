@@ -6,21 +6,24 @@
 
 h3 {
     position: relative;
-    background-color: rgba(247, 245, 245, 0.104);
+    background-color: rgba(143, 143, 143, 0.221);
     color: white;
-    width: 30%;
+    width: 200px;
+    padding: 5px;
     top: 30%;
-    left: 33%;
+    left: 45%;
     text-align: center;
     color: rgb(255, 255, 255);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1em;
-
+    text-shadow: rgba(0, 0, 0, 0.639);
+    border: solid 2px white;
 }
 
 span {
     font-family: "Mystery Quest";
     color: tomato;
+    font-size: 16pt;
 
 }
 
@@ -34,4 +37,10 @@ span {
 .articulo {
     padding: 30px;
     text-align: center;
+}
+
+.articulo p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    font-size: 14pt;
 }
