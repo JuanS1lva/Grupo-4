@@ -1,0 +1,39 @@
+.flex-container {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+}
+.flex-start {
+  align-items: flex-start;
+  justify-content: center;
+}
+.flex-item {
+  width: 23em;
+  text-align: center;
+}
+.flex-item>div>img{
+  width: 100%;
+  max-height: 100%;
+}
+.card{
+  width: 90%;
+  border: 1px solid #bfbfbf;
+  overflow: visible;
+  justify-content: center;
+}
+.card>h6{
+  padding-left: 1em;
+  font-weight: bold;
+  font-size: 1.2em;
+  color:#e26925;
+  font-family: 'Mystery Quest';
+  text-align: left;
+}
+.card>p{
+  padding-left: 1.5em;
+  text-align: left;
+  font-size: 0.8em;
+  font-family: 'Mystery Quest';
+  color: #a6a6a6;
+}
