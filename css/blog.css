@@ -26,14 +26,14 @@
   padding-left: 1em;
   font-weight: bold;
   font-size: 1.2em;
-  color:#e26925;
-  font-family: 'Mystery Quest';
+  color:rgb(201, 130, 142);
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', 'Arial, sans-serif';
   text-align: left;
 }
 .card>p{
   padding-left: 1.5em;
   text-align: left;
   font-size: 0.8em;
-  font-family: 'Mystery Quest';
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', 'Arial, sans-serif';
   color: #a6a6a6;
 }

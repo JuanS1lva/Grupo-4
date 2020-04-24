@@ -6,13 +6,20 @@
 
 .contacto h2{
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-color: crimson;
+color: rgb(232, 81, 102);
+
 
 }
 
 .contacto p{
  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  text-align: center;
- font-size: 14px;
+ font-size: 1em;
+ color: rgb(129, 131, 129);
 
+}
+
+.forlumario{
+    
+   
 }
