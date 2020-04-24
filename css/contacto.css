@@ -12,9 +12,45 @@ color: rgb(232, 81, 102);
 }
 
 .formulario{
-    display: flex;
-     align-items: center;
-     height: 80%;
-      
-   
+     
+  width: max-content;
+  height: 400px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(101, 107, 107);
+  font-size: 1.2em;
+     
 }
+
+.casillas{
+
+    border: solid 1px rgb(134, 134, 132);
+    padding: 10px;
+    width: 1000px;
+    margin: 5px;
+ }
+
+ .boton{
+
+display: inline-block;
+padding: 10px;
+text-decoration: none;
+
+ }
+
+ .diseño-boton{
+     color: rgba(51, 41, 41, 0.945);
+     background-color: rgb(189, 240, 249);
+     margin: 10px;
+     }
+
+ .diseño-boton:hover{
+     
+     background-color: rgb(85, 165, 211);
+ }
+
+
+
+
+
+ 
+
