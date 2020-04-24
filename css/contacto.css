@@ -1,3 +1,14 @@
+.contacto{
+    display: flex;
+    flex-direction: column;
+}
+
+.contacto{
+display: flex;
+justify-content: center;
+flex-direction: column;
+}
+
 .contacto h2{
 text-align: center;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
